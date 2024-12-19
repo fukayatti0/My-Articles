@@ -3,7 +3,7 @@ title: "【ポエム】CTFってまじで何？？？"
 emoji: "🏁"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: [ポエム, security]
-published: false
+published: true
 publication_name: "nitic_students"
 ---
 
